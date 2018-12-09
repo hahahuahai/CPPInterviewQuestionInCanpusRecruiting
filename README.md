@@ -6,7 +6,7 @@
 
 
 1. [智能指针的作用](http://www.cnblogs.com/lanxuezaipiao/p/4132096.html)
-2. 纯虚函数作用和实现方式
+2. [纯虚函数作用和实现方式](https://blog.csdn.net/hackbuteer1/article/details/7558868)
 3. STL数据结构的内部实现
 4. 红黑树插入和红黑树的用途
 5. C、C++的区别以及C++的优势
