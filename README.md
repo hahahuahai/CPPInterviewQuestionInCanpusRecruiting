@@ -5,8 +5,8 @@
 # C++校招面试题300道（每一题对应的答案，以后有时间添加）
 
 
-1. [智能指针的作用](http://www.cnblogs.com/lanxuezaipiao/p/4132096.html)
-2. [纯虚函数作用和实现方式](https://blog.csdn.net/hackbuteer1/article/details/7558868)
+1. 智能指针的作用：http://www.cnblogs.com/lanxuezaipiao/p/4132096.html
+2. 纯虚函数作用和实现方式：https://blog.csdn.net/hackbuteer1/article/details/7558868
 3. STL数据结构的内部实现
 4. 红黑树插入和红黑树的用途
 5. C、C++的区别以及C++的优势
@@ -15,13 +15,13 @@
 8. STL的掌握程度
 9. 指针和引用的区别，引用需要释放内存吗
 10. 智能指针的底层实现
-11. 虚函数的底层实现
+11. 虚函数的底层实现：https://blog.csdn.net/iFuMI/article/details/51088091
 12. define的特点，预处理进行替换及define的优缺点
 13. static作用
 14. 红黑树有哪些具体应用
-15. 指针和引用的区别
+15. 指针和引用的区别：https://www.cnblogs.com/dolphin0520/archive/2011/04/03/2004869.html
 16. new和malloc的区别
-17. 形参加const的优点
+17. 形参加const的优点：https://www.cnblogs.com/xudong-bupt/p/3509567.html
 18. 内存四区
 19. vector的扩容原理
 20. C++单例模式
@@ -40,7 +40,7 @@
 33. C++内存管理
 34. 多态实现机制
 35. 类中哪些函数不能为虚函数？static成员函数如果想实现虚函数的功能，怎么实现？
-36. C++11的auto和lambda
+36. C++11的auto和lambda：https://www.cnblogs.com/DswCnblog/p/5629165.html
 37. hashmap的底层实现
 38. vector的底层实现，有什么特点
 39. C++的内存布局
