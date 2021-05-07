@@ -28,17 +28,17 @@
 21. map查找重复值的函数
 22. map的实现原理和红黑树的特点
 23. main函数传参数的意义
-24. 三种继承方式
+24. 三种继承方式：http://c.biancheng.net/view/2269.html
 25. 析构函数和虚函数
 26. extern “C”的作用
-27. 多态
+27. 多态：https://www.cnblogs.com/QG-whz/p/5132745.html ；https://blog.csdn.net/hackbuteer1/article/details/7475622
 28. 构造函数是否能为虚函数，构造顺序和析构顺序
 29. 指针常量和常量指针
 30. string的构造次数
 31. C++多态实现机制
 32. 模板和类封装各自在什么不同的情况使用，各有什么优缺点
 33. C++内存管理
-34. 多态实现机制
+34. 多态实现机制：https://www.cnblogs.com/QG-whz/p/5132745.html ；https://blog.csdn.net/hackbuteer1/article/details/7475622
 35. 类中哪些函数不能为虚函数？static成员函数如果想实现虚函数的功能，怎么实现？
 36. C++11的auto和lambda：https://www.cnblogs.com/DswCnblog/p/5629165.html
 37. hashmap的底层实现
