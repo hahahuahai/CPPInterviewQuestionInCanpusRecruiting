@@ -29,7 +29,7 @@
 22. map的实现原理和红黑树的特点
 23. main函数传参数的意义
 24. 三种继承方式：http://c.biancheng.net/view/2269.html
-25. 析构函数和虚函数
+25. 析构函数和虚函数：https://blog.csdn.net/weicao1990/article/details/81911341
 26. extern “C”的作用
 27. 多态：https://www.cnblogs.com/QG-whz/p/5132745.html ；https://blog.csdn.net/hackbuteer1/article/details/7475622
 28. 构造函数是否能为虚函数，构造顺序和析构顺序
